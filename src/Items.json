@@ -1,0 +1,14 @@
+[
+    {
+        "nombre":"Avion",
+        "path": "/avion"
+    },
+    {
+        "nombre":"Auto",
+        "path": "/auto"
+    },
+    {
+        "nombre":"Barco",
+        "path": "/barco"
+    }
+]
